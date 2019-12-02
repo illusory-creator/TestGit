@@ -11,6 +11,6 @@
     <title>$Title$</title>
 </head>
 <body>
-$END$
+this is a jsp...
 </body>
 </html>
