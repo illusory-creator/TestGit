@@ -4,6 +4,6 @@
     <title>$Title$</title>
 </head>
 <body>
-this is a jsp2！！！
+this is a jsp1！！！
 </body>
 </html>
